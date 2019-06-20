@@ -11,11 +11,11 @@
   display: none;
 }
 
-#wall .parent div#tag-4 {
+#wall div.parent div#tag-4 {
   display: none;
 }
 
-#wall .parent #tag-5.slick {
+#wall div.parent #tag-5.slick {
   display: none;
 }
 
